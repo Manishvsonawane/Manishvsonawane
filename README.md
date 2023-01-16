@@ -147,11 +147,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumarsahu89&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="rajkumarsahu89" /></p>
+<p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manishvsonawane&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="Manishvsonawane" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkumarsahu89&show_icons=true&title_color=37c0fb&text_color=ffffff&bg_color=010000&locale=en" alt="rajkumarsahu89" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manishvsonawane&show_icons=true&title_color=37c0fb&text_color=ffffff&bg_color=010000&locale=en" alt="Manishvsonawane" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarsahu89&theme=highcontrast" alt="rajkumarsahu89" /></p>
 
 ## ✍️ Random Dev Quote
   
