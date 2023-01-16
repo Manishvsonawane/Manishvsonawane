@@ -129,9 +129,9 @@
 
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
-- Revv Self Drive Car Rental in India is a reliable name in the industry as they aim to deliver the best experience to their customers. Tech Stack:- HTML, CSS,JavaScript [Revv.com CLONE](https://radiant-pasca-c8b0ba.netlify.app)
+- Revv Self Drive Car Rental in India is a reliable name in the industry as they aim to deliver the best experience to their customers. Tech Stack:- HTML,    CSS,JavaScript [Revv.com CLONE](https://radiant-pasca-c8b0ba.netlify.app)
 
-- Tripvillas.com Is One Of Asia's Largest Holiday Home Rental Companies. Tech Stack:- JavaScript, REACT, CHAKRA UI [tripvillas.com CLONE](https://vocal-pavlova-b43e27.netlify.app/)
+- <<< MYTHERESA.COM | It's an online business e-commerce shopping website which includes different types of branded products, where user can order products and get deliver at doorstep. >>> Tech Stack:- JavaScript, REACT, CHAKRA UI [mytheresa.com CLONE](https://vocal-pavlova-b43e27.netlify.app/](https://moonlit-salmiakki-6e9d34.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://Manishvsonawane.github.io/](https://Manishvsonawane.github.io/)
 
