@@ -137,7 +137,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Typescript, MUI, Chakra UI**
 
-- 📫 How to reach me **sonawanemanish349@gmail.com**
+- 📫 How to reach me **/mailto:sonawanemanish349@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
